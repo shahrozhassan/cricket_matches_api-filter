@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.match-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.match-item h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.match-item p {
+    margin: 5px 0;
+}
+
+.match-item h3 {
+    margin: 10px 0 5px;
+}
